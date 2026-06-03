@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://real-estate-project-wdkz.onrender.com";
 
 export const resolveMediaUrl = (path) => {
   if (!path) {
